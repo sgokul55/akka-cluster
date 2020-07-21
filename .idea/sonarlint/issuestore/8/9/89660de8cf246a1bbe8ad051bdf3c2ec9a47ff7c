@@ -1,0 +1,14 @@
+
+i
+java:S1602\"SRemove useless curly braces around statement and then remove useless return keyword(ñ€Ò
+Q	java:S125|"<This block of commented-out lines of code should be removed.(•Ü¹¹
+i
+java:S1602N"SRemove useless curly braces around statement and then remove useless return keyword(Óêêü
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(æìŠ–
+W	java:S125"<This block of commented-out lines of code should be removed.(•¸°ûÿÿÿÿ
+n
+java:S1602O"SRemove useless curly braces around statement and then remove useless return keyword(ùìûÿÿÿÿ
+I
+java:S1948"'Make "block" transient or serializable.(ÔÛëÿÿÿÿÿ8Â¯Š¼¶.
+N
+java:S1948/",Make "hashResult" transient or serializable.(ŒÂÖÑúÿÿÿÿ8›‚Š¼¶.
